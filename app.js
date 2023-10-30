@@ -74,9 +74,7 @@ async function main() {
     await mongoose.connect(db_url)
 }
 
-// app.get("/", (req, res) => {
-//     res.send("this is root");
-// });
+
 
 // app.get("/testSch", async (req, res) => {
 //     const newListing = new Listing({
