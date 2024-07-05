@@ -28,6 +28,17 @@ This project is an attempt to create a simplified version of the Airbnb website 
 - BOOTSTRAP
 - MVC (MODEL, VIEW, CONTROLLER) AND ETC..
 
+## Packages used :
+- mongoose-atlas
+- password
+- flash
+- session
+- multer
+- mapbox
+- cookies
+- doenv
+- cloudinary and etc..
+
 ## Author:
 - Gaurav
 - Email: gauravknp29@gmail.com
