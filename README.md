@@ -40,9 +40,9 @@ https://delta-wanderlust-7p5w.onrender.com/listings
 ### Home Page:
 ![Screenshot 2024-07-05 212058](https://github.com/Gaurav1129/Wanderlust/assets/121231831/b68a1c63-8da5-4c6c-a471-a69298730529)
 
-![Screenshot 2024-07-05 212507](https://github.com/Gaurav1129/Wanderlust/assets/121231831/e6b53cba-3a38-451b-b37a-818b0afc6a8f)
-
 ![Screenshot 2024-07-05 212444](https://github.com/Gaurav1129/Wanderlust/assets/121231831/e63ed03b-3376-4a27-a4b7-776fbef9b8d3)
+
+![Screenshot 2024-07-05 212507](https://github.com/Gaurav1129/Wanderlust/assets/121231831/e6b53cba-3a38-451b-b37a-818b0afc6a8f)
 
 ### SignUp Page:
 ![Screenshot 2024-07-05 212210](https://github.com/Gaurav1129/Wanderlust/assets/121231831/d434dbdf-6b10-41de-90d6-f700079d771e)
