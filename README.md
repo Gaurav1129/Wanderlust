@@ -1,7 +1,7 @@
 # Wanderlust Major Project
 
 ## Description
-This project is an attempt to create a simplified version of the Airbnb website using Node.js, Express, MongoDB, EJS, and CSS.
+This project is an attempt to create a simplified version of the Airbnb website using Node.js, Express, MongoDB, Ejs, and Css.
 
 ## Features
 - User Authentication: Allow users to sign up, log in, and log out.
